@@ -1,4 +1,4 @@
-package mysample;
+package mysample.data;
 
 import javax.xml.datatype.XMLGregorianCalendar;
 
